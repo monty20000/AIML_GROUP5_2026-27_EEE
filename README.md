@@ -12,7 +12,7 @@ This repository contains the soft-copy files, programs, datasets, and other mate
 | 2 | 2402061068 | ADARSH RAJ |
 | 3 | 2402061069 | ASISH KUMAR RATH |
 | 4 | 2402061070 | BIJAY GUPTA |
-| 5 | 2402061071 | MADHU SAILESH SASMAL |
+| 5 | 2402061071 | MADHU SAILESH SASAMAL |
 | 6 | 2402061072 | JITENDRIYA BAG |
 
 ### Lab Details
